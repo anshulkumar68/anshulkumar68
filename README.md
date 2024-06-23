@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Dev Projects**
 
-- 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help in getting new job as a **Frontend Developer**
 
 - 💬 Ask me about **Web technologies**
 
