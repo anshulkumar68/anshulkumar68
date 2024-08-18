@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulkumar68&label=Profile%20views&color=0e75b6&style=flat" alt="anshulkumar68" /> </p>
-- 👨‍💻 More about me at [https://anshul-dev.netlify.app/](https://anshul-dev.netlify.app/)
+- 👨‍💻 More about me at [https://anshul-dev.netlify.app/]
 
 - 🔭 I’m currently working on **something interesting**
 
