@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anshul Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulkumar68&label=Profile%20views&color=0e75b6&style=flat" alt="anshulkumar68" /> </p>
+- 👨‍💻 More about me at [https://anshul-dev.netlify.app/](https://anshul-dev.netlify.app/)
 
 - 🔭 I’m currently working on **something interesting**
 
@@ -10,8 +11,6 @@
 - 👯 I’m looking to collaborate on **Frontend Project**
 
 - 🤝 I’m looking for help with **Job switch**
-
-- 👨‍💻 All of my projects are available at [https://anshul-dev.netlify.app/](https://anshul-dev.netlify.app/)
 
 - 💬 Ask me about **Web technonlogies**
 
